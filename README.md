@@ -134,73 +134,40 @@ These are **commercial platforms** and are kept separate from the open-source ec
 
 
 
-| Platform                                                                                                       | Primary Focus                 | Typical Strengths                                                |
-
-| -------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------- |
-
-| [Progress MOVEit](https://www.progress.com/moveit)                                                             | Enterprise MFT                | Secure transfers, automation, compliance, auditing               |
-
-| [Kiteworks](https://www.kiteworks.com/)                                                                        | Secure content communications | Secure file sharing, governance, compliance, email/file transfer |
-
-| [Fortra GoAnywhere MFT](https://www.goanywhere.com/)                                                           | Enterprise MFT                | Multi-protocol transfer, automation, workflows, B2B              |
-
-| [Cleo Integration Cloud](https://www.cleo.com/)                                                                | Integration + MFT             | B2B integration, APIs, EDI, workflows                            |
-
-| [Files.com](https://www.files.com/)                                                                            | Cloud file operations         | Secure file sharing, SFTP, automation, APIs                      |
-
-| [GlobalSCAPE EFT](https://www.globalscape.com/eft)                                                             | Enterprise MFT                | Secure transfer, automation, workflow and compliance             |
-
-| [Citrix ShareFile](https://www.sharefile.com/)                                                                 | Secure file sharing           | Business collaboration, secure links, client portals             |
-
-| [IBM Sterling File Transfer](https://www.ibm.com/products/sterling-file-transfer)                              | Enterprise MFT                | Large-scale B2B transfers, partner management, automation        |
-
-| [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer)                         | Enterprise MFT                | B2B exchange, governance, API/integration ecosystem              |
-
-| [Thru](https://www.thruinc.com/)                                                                               | Cloud MFT                     | Secure file exchange, automation, APIs                           |
-
-| [JSCAPE MFT Server](https://www.jscape.com/)                                                                   | MFT                           | Multi-protocol transfer, automation, hybrid deployment           |
-
-| [Redwood MFT](https://www.redwood.com/)                                                                        | MFT / automation              | Managed transfer and workload automation                         |
-
-| [AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/)                                             | Cloud SFTP/FTPS/FTP           | Managed endpoints connected to S3/EFS                            |
-
-| [Azure Blob SFTP](https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support) | Cloud SFTP                    | SFTP directly against Azure Blob Storage                         |
-
-| [Google Cloud Storage SFTP solutions](https://cloud.google.com/storage)                                        | Cloud storage transfer        | Cloud-native secure transfer architectures                       |
-
-| [SFTP To Go](https://sftptogo.com/)                                                                            | Cloud MFT                     | Managed SFTP/FTPS/HTTPS, object storage integration              |
-
-| [Couchdrop](https://www.couchdrop.io/)                                                                         | Cloud SFTP                    | SFTP gateway to cloud storage                                    |
-
-| [ExaVault](https://www.exavault.com/)                                                                          | Cloud file transfer           | Secure file sharing and SFTP                                     |
-
-| [SmartFile](https://www.smartfile.com/)                                                                        | Secure file transfer          | SFTP, file sharing, automation                                   |
-
-| [FilesAnywhere](https://www.filesanywhere.com/)                                                                | Secure file sharing           | Business file storage and sharing                                |
-
-| [Titan MFT](https://titanftp.com/)                                                                             | Secure file transfer          | SFTP/FTP/FTPS and enterprise transfer                            |
-
-| [Cerberus FTP Server](https://www.cerberusftp.com/)                                                            | Secure file server            | SFTP, FTPS, HTTPS and managed transfer                           |
-
-| [SolarWinds Serv-U](https://www.solarwinds.com/serv-u)                                                         | MFT / file transfer           | SFTP, FTPS, HTTPS, automation                                    |
-
-| [Cleo Harmony](https://www.cleo.com/products/harmony)                                                          | B2B integration               | EDI, APIs, MFT and partner workflows                             |
-
-| [Axway SecureTransport](https://www.axway.com/en/products/securetransport)                                     | Enterprise MFT                | Secure partner file exchange                                     |
-
-| [IBM Sterling File Gateway](https://www.ibm.com/products/sterling-file-gateway)                                | B2B gateway                   | Partner onboarding and high-volume transfer                      |
-
-| [Oracle Managed File Transfer](https://www.oracle.com/integration/managed-file-transfer/)                      | Enterprise MFT                | Workflow, transfer and integration                               |
-
-| [SAP Integration Suite](https://www.sap.com/products/technology-platform/integration-suite.html)               | Integration / MFT             | Enterprise integration and B2B connectivity                      |
-
-| [Red Hat Integration](https://www.redhat.com/en/technologies/cloud-computing/integration)                      | Integration                   | API, messaging and integration workflows                         |
-
-| [Boomi](https://boomi.com/)                                                                                    | Integration                   | B2B, API and data integration                                    |
-
-| [MuleSoft Anypoint Platform](https://www.mulesoft.com/platform/anypoint-platform)                              | Integration                   | APIs, B2B and application integration                            |
-
-| [Workato](https://www.workato.com/)                                                                            | Automation / integration      | Workflow automation and enterprise integrations                  |
+| Platform | Primary Focus | Typical Strengths | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| [Progress MOVEit](https://www.progress.com/moveit) | Enterprise MFT | Secure transfers, automation, compliance, auditing | Starts at **~$2,500–$4,900/year** (~£125.86–£158/user/year on G-Cloud / reseller listings; ~$140/user/year base pack) | **30-day free trial** for MOVEit Cloud & Transfer (up to 25 users with full MFT automation and auditing); free MOVEit Client for recipients |
+| [Kiteworks](https://www.kiteworks.com/) | Secure content communications | Secure file sharing, governance, compliance, email/file transfer | Starts at **$15.00–$25.50/user/month** (annual contract, typically min 10 users = **~$1,800–$3,060/year**; G-Cloud tiers £34–£202/user/year) | **14-day guided Proof of Concept (PoC)** / trial on request (up to 10 users with full governance and audit trails) |
+| [Fortra GoAnywhere MFT](https://www.goanywhere.com/) | Enterprise MFT | Multi-protocol transfer, automation, workflows, B2B | Starts at **~$3,995–$4,000/year** (baseline tier for single server and core protocols/automation; enterprise clusters $10,000+/year) | **30-day free trial** (fully functional evaluation covering multi-protocol transfers, workflows, and cloud connectors) |
+| [Cleo Integration Cloud](https://www.cleo.com/) | Integration + MFT | B2B integration, APIs, EDI, workflows | Starts at **~$12,000–$25,000/year** (~$1,000–$2,000/month baseline subscription for core B2B MFT endpoints; mid-market bundles scale higher) | **30-day guided Proof of Concept (PoC)** / sandbox evaluation available on request with technical scoping |
+| [Files.com](https://www.files.com/) | Cloud file operations | Secure file sharing, SFTP, automation, APIs | Starts at **$199/month** ($2,148/year billed annually for Starter tier: 10 Full Users, 50 System Users, 2 outbound connections; extra users $12/user/mo) | **7-day free trial** with full access to SFTP/FTPS/AS2 protocols, integrations, and automation workflows (no credit card required) |
+| [GlobalSCAPE EFT](https://www.globalscape.com/eft) | Enterprise MFT | Secure transfer, automation, workflow and compliance | Starts at **~$7,800/year** (~£6,000/year G-Cloud listing, ~$495/month for EFT Arcus cloud tier; perpetual server licenses from $875) | **30-day free trial** for EFT Server (15-day free trial for EFT Arcus SaaS) with full enterprise MFT modules and event rules |
+| [Citrix ShareFile](https://www.sharefile.com/) | Secure file sharing | Business collaboration, secure links, client portals | Starts at **$16.50/user/month** (billed annually, min 3 users = **$49.50/month**; Premium tier at $26.00/user/month; VDR at $69.30/user/month) | **14-day free trial** (up to 25 users, full sharing features, client portals, and e-signatures; no credit card required) |
+| [IBM Sterling File Transfer](https://www.ibm.com/products/sterling-file-transfer) | Enterprise MFT | Large-scale B2B transfers, partner management, automation | Starts at **$2,800/year** (~$233.33/month for B2B Integration SaaS Essentials; enterprise Sterling File Gateway deployments start at **~$20,000–$30,000/year**) | **30-day guided enterprise sandbox / proof of concept** on IBM Cloud with interactive file transfer workflow tours |
+| [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) | Enterprise MFT | B2B exchange, governance, API/integration ecosystem | Starts at **~$18,000/year** (~$1,500/month baseline subscription for Transfer CFT and core MFT gateway; scaling with transfer volume) | **30-day guided Proof of Concept (PoC)** / interactive sandbox evaluation available on request with pre-configured Transfer CFT instances |
+| [Thru](https://www.thruinc.com/) | Cloud MFT | Secure file exchange, automation, APIs | Starts at **~$6,000–$12,000/year** (tiered capacity starting at ~£500–£1,000/month based on data volume; G-Cloud listing £3,151/month for full multi-tenant enterprise) | **30-day free trial** / pilot environment with up to 50 GB transfer quota and standard connector setup |
+| [JSCAPE MFT Server](https://www.jscape.com/) | MFT | Multi-protocol transfer, automation, hybrid deployment | Starts at **~$4,500–$6,000/year** (baseline tier for single server domain/instance; enterprise tier scales with domains and clustering) | **7-day free trial** (fully functional evaluation limited to 3 users and 1 domain) |
+| [Redwood MFT](https://www.redwood.com/) | MFT / automation | Managed transfer and workload automation | Starts at **~$12,000–$18,000/year** (enterprise MFT / workload automation starting bundle; scaling with server endpoints) | **7-day free trial** / guided enterprise sandbox with full workflow orchestration and multi-protocol file routing |
+| [AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/) | Cloud SFTP/FTPS/FTP | Managed endpoints connected to S3/EFS | Starts at **$0.30/endpoint hour** (~$216/month baseline for 1 SFTP protocol endpoint) + **$0.04/GB** data processed | **$300 credit for 30 days** via AWS Free Tier for new accounts (applies to Transfer Family endpoint hours and data transfer) |
+| [Azure Blob SFTP](https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support) | Cloud SFTP | SFTP directly against Azure Blob Storage | Starts at **$0.30/hour** (~$216/month per enabled storage account) + standard Blob storage/transaction rates ($0.018/GB Hot tier) | **$200 credit for 30 days** via Azure Free Account (applies to SFTP hourly fee and storage) |
+| [Google Cloud Storage SFTP solutions](https://cloud.google.com/storage) | Cloud storage transfer | Cloud-native secure transfer architectures | Starts at **~$0.06–$0.14/hour** (~$43–$100/month via GCP Marketplace SFTP Gateway / Compute Engine VM e.g. Thorn Technologies SFTP Gateway at $0.06/hr + GCS storage at $0.020/GB) | **$300 credit for 90 days** via Google Cloud Free Program; GCS Always-Free tier includes **5 GB-months** storage, 5,000 Class A ops, and 100 GB egress/month |
+| [SFTP To Go](https://sftptogo.com/) | Cloud MFT | Managed SFTP/FTPS/HTTPS, object storage integration | Starts at **$150/month** (Launch tier, includes 10 credentials, 100 GB storage, 250 GB monthly bandwidth; discounted on annual billing) | **7-day free trial** with full platform features, web portal, API access, and automations (no credit card required) |
+| [Couchdrop](https://www.couchdrop.io/) | Cloud SFTP | SFTP gateway to cloud storage | Starts at **$50/month** (Couchdrop Link tier; Essentials starts at ~$99/month for cloud storage endpoints) | **14-day free trial** with instant access to cloud storage connectors and SFTP endpoints (no credit card required) |
+| [ExaVault](https://www.exavault.com/) | Cloud file transfer | Secure file sharing and SFTP | Starts at **$99/month** (per 50-user pack for on-prem appliance; cloud SaaS starting at $199/month via Files.com) | **Free Forever plan** for on-premise appliance (up to 50 users indefinitely with full SFTP/web sharing); **7-day free trial** for cloud platform |
+| [SmartFile](https://www.smartfile.com/) | Secure file transfer | SFTP, file sharing, automation | Starts at **$10/user/month** (Business tier, or ~$100/month minimum base plan with storage and multi-user support) | **14-day free trial** with full access to SFTP/FTP features, custom branding, and granular permissions (no credit card required) |
+| [FilesAnywhere](https://www.filesanywhere.com/) | Secure file sharing | Business file storage and sharing | Starts at **$8.99/user/month** (Business Starter plan, min 2 users = $17.98/month; Professional at $13.99/user/month) | **Free Forever plan** (1 GB storage, 1 user; requires login once every 60 days); **14-day free trial** for Business/Professional plans (no credit card required) |
+| [Titan MFT](https://titanftp.com/) | Secure file transfer | SFTP/FTP/FTPS and enterprise transfer | Starts at **$599.95** (one-time perpetual server license for Standard; or ~$750–$1,250/year cloud subscription/support; Enterprise tier ~$1,949.95) | **20-day free trial** with full multi-protocol server functionality and administrative controls |
+| [Cerberus FTP Server](https://www.cerberusftp.com/) | Secure file server | SFTP, FTPS, HTTPS and managed transfer | Starts at **$1,599/year** (Professional Edition annual subscription; Enterprise at $3,499/year) | **25-day free trial** with full Professional & Enterprise features unlocked |
+| [SolarWinds Serv-U](https://www.solarwinds.com/serv-u) | MFT / file transfer | SFTP, FTPS, HTTPS, automation | Starts at **$634** (Serv-U FTP Server perpetual license; Serv-U MFT Server starts at **$3,827** perpetual license with 1 year maintenance included) | **14-day free trial** with fully functional MFT features, multi-protocol endpoints, and web client |
+| [Cleo Harmony](https://www.cleo.com/products/harmony) | B2B integration | EDI, APIs, MFT and partner workflows | Starts at **~$3,500–$5,000/year** (base license per server endpoint for enterprise on-premise/hybrid multi-protocol MFT) | **30-day evaluation license** provided by Cleo engineering with up to 5 trading partner connections |
+| [Axway SecureTransport](https://www.axway.com/en/products/securetransport) | Enterprise MFT | Secure partner file exchange | Starts at **~$18,000/year** (~$1,500/month baseline subscription for gateway instance and standard partner routing) | **30-day guided Proof of Concept (PoC)** / interactive sandbox evaluation available on request |
+| [IBM Sterling File Gateway](https://www.ibm.com/products/sterling-file-gateway) | B2B gateway | Partner onboarding and high-volume transfer | Starts at **~$20,000–$30,000/year** (entry enterprise subscription for partner onboarding and multi-protocol gateway routing) | **30-day guided enterprise sandbox / proof of concept** on IBM Cloud with interactive file transfer workflow tours |
+| [Oracle Managed File Transfer](https://www.oracle.com/integration/managed-file-transfer/) | Enterprise MFT | Workflow, transfer and integration | Starts at **$30,000/processor** (perpetual license + $6,600/year software update support; or OCI BYOL/Compute starting at ~$2.50/OCPU-hour) | **30-day trial with $300 free cloud credits** on Oracle Cloud Infrastructure (OCI); free OTN developer evaluation license |
+| [SAP Integration Suite](https://www.sap.com/products/technology-platform/integration-suite.html) | Integration / MFT | Enterprise integration and B2B connectivity | Starts at **€4,635/month** (~$5,050/month for Standard Edition tenant; Pay-As-You-Go / CPEA models available) | **90-day Free Tier** on SAP BTP (includes 10,000 messages/month and free SAP-to-SAP messages before decommissioning) |
+| [Red Hat Integration](https://www.redhat.com/en/technologies/cloud-computing/integration) | Integration | API, messaging and integration workflows | Starts at **~$7,500/year** (Standard 2-core / 4-vCPU unit subscription; Premium tier ~$11,250/year per 2 cores) | **60-day free product trial** through Red Hat Customer Portal; permanent free **Red Hat Developer Subscription for Individuals** (up to 16 nodes for development/testing) |
+| [Boomi](https://boomi.com/) | Integration | B2B, API and data integration | Starts at **$99/month** base fee (+ $0.05/message processed on Pay-As-You-Go; Enterprise subscriptions start at ~$20,000/year) | **30-day free trial** with access to full platform features, up to 3 standard connectors, and 3 test connectors |
+| [MuleSoft Anypoint Platform](https://www.mulesoft.com/platform/anypoint-platform) | Integration | APIs, B2B and application integration | Starts at **~$27,000/year** (Integration Starter tier, or ~$2,250/month; full Anypoint Enterprise deployments start at ~$150,000/year) | **30-day free trial** with full access to Anypoint Design Center, API Manager, and Runtime Manager (no credit card required) |
+| [Workato](https://www.workato.com/) | Automation / integration | Workflow automation and enterprise integrations | Starts at **~$10,000–$15,000/year** (Base Workspace tier for up to 500,000 tasks/year; scaling with recipe and task packs) | **30-day interactive trial sandbox** upon sales request / guided PoC with pre-built connectors and test recipe executions |
 
 
 
