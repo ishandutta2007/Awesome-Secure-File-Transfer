@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://raw.githubusercontent.com/ishandutta2007/Awesome-Awesome-Awesome/main/svg/awesome-awesome-awesome.svg" width="80" height="20" alt="Awesome-Awesome-Awesome"></a>
   <a href="https://discord.gg/SZqdTaNu9b"><img src="https://img.shields.io/discord/1004646870445494332?color=7289da&label=Discord&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Secure-File-Transfer/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Secure-File-Transfer?style=flat-square&logo=github&color=gold" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Secure-File-Transfer/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Secure-File-Transfer?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Secure-File-Transfer/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Secure-File-Transfer?style=flat-square&logo=github&color=blue" alt="GitHub Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Secure-File-Transfer/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Secure-File-Transfer?style=flat-square&color=orange" alt="GitHub Issues"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Secure-File-Transfer/pulls"><img src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-Secure-File-Transfer?style=flat-square&color=brightgreen" alt="GitHub PRs"></a>
